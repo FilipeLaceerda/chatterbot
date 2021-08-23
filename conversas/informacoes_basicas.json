@@ -1,0 +1,20 @@
+{
+    "conversas": [
+        {
+            "mensagens": ["Quantos dias úteis chega uma encomenda?"],
+            "resposta": "Entre 15 á 30 dias."
+        },
+        {
+            "mensagens": ["Quais as formas de pagamento?" ],
+            "resposta": "Boleto, cartão ou pix pelo o qrCode"
+        },
+        {
+            "mensagens": ["Como é a forma de envio e políticas de troca?"],
+            "resposta": "Deve fazer o pedido de troca na plataforma até 30 dias úteis, vamos enviar um email com todas os procedimentos para postar nos correios."
+        },
+        {
+            "mensagens": ["Quantos dias úteis para fazer troca ou desistir do produto?"],
+            "resposta": "30 dias úteis para troca e 7 dias úteis para desistir."
+        }
+    ]
+}

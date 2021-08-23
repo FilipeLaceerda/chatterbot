@@ -1,0 +1,16 @@
+{
+    "conversas": [
+        {
+            "mensagens": ["quais as promoções de hoje?", "quais produtos estão em promoção hoje?"],
+            "resposta": "Olá, as promoções de hoje são chuteira da nike de R$139,99 por R$99,00. Camisa de corrida de R$89,00 por R$ 49,90"
+        },
+        {
+            "mensagens": ["quais os produtos disponiveis de futebol?"],
+            "resposta": "Chuteiras, meias esportivas, shorts, camisas de times oficiais."
+        },
+        {
+            "mensagens": ["Quais os produtos estão de frete grátis no momento?"],
+            "resposta": "Tênis para corrida adidas, capacete de ciclismo, jaquetas, mochilas e óculos para natação."
+        }
+    ]
+}
